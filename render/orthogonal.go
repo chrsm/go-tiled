@@ -25,8 +25,8 @@ package render
 import (
 	"image"
 
+	tiled "github.com/chrsm/go-tiled"
 	"github.com/disintegration/imaging"
-	tiled "github.com/lafriks/go-tiled"
 )
 
 // OrthogonalRendererEngine represents orthogonal rendering engine.

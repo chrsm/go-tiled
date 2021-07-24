@@ -35,8 +35,8 @@ import (
 
 	"image/gif"
 
+	"github.com/chrsm/go-tiled"
 	"github.com/disintegration/imaging"
-	"github.com/lafriks/go-tiled"
 )
 
 var (

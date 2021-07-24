@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="37" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="1" nextobjectid="1">
+ <editorsettings>
+   <export target="dst/lua/file.lua" format="lua"/>
+ </editorsettings>
+</map>

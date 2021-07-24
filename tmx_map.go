@@ -90,6 +90,8 @@ type Map struct {
 	ImageLayers []*ImageLayer `xml:"imagelayer"`
 	// Group layers
 	Groups []*Group `xml:"group"`
+
+	EditorSettings *EditorSettings `xml:"editorsettings"`
 }
 
 func (m *Map) initTileset(ts *Tileset) error {
